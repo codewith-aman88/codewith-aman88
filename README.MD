@@ -5,10 +5,10 @@
 <h3 align="center">A passionate SAP UI5 & Fiori Developer</h3>
 <img align="right" alt="Coding" width="380px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I'm currently working on **Enterprise SAP Fiori applications and UI5 components**
-- 🌱 I'm currently learning **SAP BTP, CAP (Cloud Application Programming), and advanced OData services**
-- 👯 I'm looking to collaborate on **SAP UI5/Fiori open source projects and enterprise frontend development**
-- 🤝 I'm looking for help with **SAP BTP integration and cloud-native SAP development**
+-  I'm currently working on **Enterprise SAP Fiori applications and UI5 components**
+-  I'm currently learning **SAP BTP, CAP (Cloud Application Programming), and advanced OData services**
+-  I'm looking to collaborate on **SAP UI5/Fiori open source projects and enterprise frontend development**
+-  I'm looking for help with **SAP BTP integration and cloud-native SAP development**
 
 ---
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 🤝 Connect with me
+##  Connect with me
 <p align="left">
   <a href="https://github.com/codewith-aman88" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
