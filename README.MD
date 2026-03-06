@@ -1,11 +1,14 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=codewith-aman88&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-aman88" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Aman Kushwaha</h1>
 <h3 align="center">A passionate SAP UI5 & Fiori Developer at Capgemini</h3>
 
 <img align="right" alt="Coding" width="380px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codewith-aman88&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-aman88" />
-</p>
+
 
 - 🔭 I'm currently working on **Enterprise SAP Fiori applications and UI5 components at Capgemini**
 
@@ -15,9 +18,6 @@
 
 - 🤝 I'm looking for help with **SAP BTP integration and cloud-native SAP development**
 
-- 💬 Ask me about **SAP UI5, SAP Fiori, OData, SAPUI5 Controls, and Enterprise UX Design**
-
-- ⚡ Fun fact **I build enterprise apps that millions of SAP users interact with daily!**
 
 ---
 
