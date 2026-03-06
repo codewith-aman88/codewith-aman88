@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<br><img src="https://github.com/codewith-aman88/codewith-aman88/blob/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://github.com/codewith-aman88/codewith-aman88/blob/main/hadder.gif" width="280px"><br><br>
 </p>
 <h3 align="right">Connect with me :</h3>
 <a href="https://linkedin.com/in/aman-kushwaha-176b45243">
