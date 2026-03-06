@@ -1,116 +1,78 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aman Kushwaha</h1>
+<h3 align="center">A passionate SAP UI5 & Fiori Developer at Capgemini</h3>
 
-<img src="https://komarev.com/ghpvc/?username=codewith-aman88&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+<img align="right" alt="Coding" width="380px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=codewith-aman88&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-aman88" />
+</p>
 
----
+- 🔭 I'm currently working on **Enterprise SAP Fiori applications and UI5 components at Capgemini**
 
-<img src="https://github.com/codewith-aman88/codewith-aman88/blob/main/hadder.gif" width="100%" />
+- 🌱 I'm currently learning **SAP BTP, CAP (Cloud Application Programming), and advanced OData services**
 
----
+- 👯 I'm looking to collaborate on **SAP UI5/Fiori open source projects and enterprise frontend development**
 
-<div align="center">
+- 🤝 I'm looking for help with **SAP BTP integration and cloud-native SAP development**
 
-# `> Hello, World! 👋`
-## I'm **Aman Kushwaha**
-### 🏢 SAP UI5 & Fiori Developer @ Capgemini
+- 💬 Ask me about **SAP UI5, SAP Fiori, OData, SAPUI5 Controls, and Enterprise UX Design**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kushwaha-176b45243)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewith-aman88)
-
-</div>
+- ⚡ Fun fact **I build enterprise apps that millions of SAP users interact with daily!**
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ Tech Stack & Skills
 
-```javascript
-const aman = {
-  role     : "SAP UI5 & Fiori Developer",
-  company  : "Capgemini",
-  location : "India 🇮🇳",
+### 🔷 SAP Technologies
+<p>
+  <img src="https://img.shields.io/badge/SAP%20UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20BTP-003366?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OData-0070C0?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20CAP-003366?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
 
-  currentlyLearning : ["SAPUI5/Fiori", "CAPM", "AWS", "ABAP"],
-  interests         : ["Research", "Open Source"],
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-  skills: {
-    languages  : ["C++", "JavaScript"],
-    frameworks : ["SAP UI5", "SAP Fiori", "React.js", "Express.js"],
-    databases  : ["MySQL", "PostgreSQL", "DynamoDB", "SAP S/4HANA"],
-    platforms  : ["AWS", "Firebase", "SAP BTP"],
-  },
-
-  funFact: "I build enterprise apps that millions of SAP users interact with 🚀"
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frameworks & Libraries**
-
-![SAPUI5](https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-008FD3?style=for-the-badge&logo=sap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-**Platforms & Cloud**
-
-![SAP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## 😅 My Daily Workflow
-
-```cpp
-Developer dev = new Developer("AMAN-KUSHWAHA");
-
-while (dev.isCoding() && dev.isStuck()) {
-  dev.openBrowser();
-  dev.openStackOverflow();   // classic
-  dev.pasteCodeInIde();
-  dev.feelProfessional();    // 😎
-}
-```
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewith-aman88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-aman88&theme=tokyonight&hide_border=true&layout=compact" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=codewith-aman88&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-aman88&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
-<div align="center">
+## 🤝 Connect with me
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+<p align="left">
+  <a href="https://github.com/codewith-aman88" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-⭐️ **Feel free to star my repos if you find them useful!**
+---
 
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
